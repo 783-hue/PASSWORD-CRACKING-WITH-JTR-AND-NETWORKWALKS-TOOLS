@@ -101,7 +101,7 @@ https://networkwalks.com/hash-calculator/
    https://networkwalks.com/password-cracker/
 
 
-
+![01-Locked-NW-Hash output](01-Locked-NW-Hash.png) 
 
 # 3. Conclusion
 
