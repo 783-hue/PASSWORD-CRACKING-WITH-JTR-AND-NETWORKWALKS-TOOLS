@@ -100,8 +100,6 @@ https://networkwalks.com/hash-calculator/
 
    https://networkwalks.com/password-cracker/
 
-![W3-PM2 Password Cracking with NW Tools Screenshots-01-Locked-NW-Hash output](01-Locked-NW-Hash.png)
-
 
 
 
