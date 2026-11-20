@@ -98,7 +98,7 @@ https://networkwalks.com/hash-calculator/
 
 # 3. Evidence
 
-![01 My Locked PDF 1 Hash output](01_My Locked_PDF 1_Hash.png)
+![01-Locked PDF Hash output](01-Locked PDF Hash.png)
 
 # 👤 Author
 
