@@ -63,7 +63,7 @@ https://openwall.info/wiki/john/johnny
 
 
 
-## Step 3 Open the hash website and upload the pdf file
+## Step 3 Open the hash website upload the pdf file and copy the hash save it to txt.
 
 
 https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
