@@ -39,7 +39,7 @@ Password cracking with JTR John,  JTR Johnny and Networkwalks Tools to recover t
 
 # About
 
-Password cracking with JTR John and JTR Johnny to recover the password of a protected PDF file.
+Password cracking with JTR John, JTR Johnny and Networkwalks tools to recover the password of a protected PDF file.
 
 
 WEEK 3 | PROJECT MODULE 1
