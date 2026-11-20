@@ -70,6 +70,7 @@ https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 
 
 ## Step 5 Open each hash text file in Johnny and click start new attack. Open the encrypted PDF and enter the password you just cracked                                                                
+![01-Locked-PDF-Hash output](01-Locked-PDF-Hash.png)
 
 
 
@@ -98,7 +99,7 @@ https://networkwalks.com/hash-calculator/
 
 # 3. Evidence
 
-![01-Locked-PDF-Hash output](01-Locked-PDF-Hash.png)
+
 
 # 👤 Author
 
